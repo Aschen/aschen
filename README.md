@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 I’m currently working on [Kuzzle, next generation backend](https://github.com/kuzzleio)<br><br>- 🌱 I’m currently learning **Russian**<br><br>- 📝 Read my articles on [https://aschen.tech](https://aschen.tech) and learn everyday about tech with  [https://links.aschen.tech](https://links.aschen.tech)<br><br>- 💬 Ask me about **Clean Code, Architecture, Node.js, Cryptography, History, Troll**<br>
+<br>- 🔭 I’m currently working on `undefined` <br><br>- 🌱 I’m currently learning **Russian**<br><br>- 📝 Read my articles on [https://aschen.tech](https://aschen.tech) and learn everyday about tech with  [https://links.aschen.tech](https://links.aschen.tech)<br><br>- 💬 Ask me about **Clean Code, Architecture, Node.js, Cryptography, History, Troll**<br>
 
 
 ## 🌐 Socials:
