@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 I’m currently working at [Didask](https://www.didask.com/) <br><br>- ⚙️ Experimenting (a lot) with [Large Language Models](https://gen-ai.fr/) <br><br>- 🌱 I’m currently learning **Russian**<br><br>- 📝 Read my articles on [https://aschen.tech](https://aschen.tech) and learn everyday about tech with  [https://links.aschen.tech](https://links.aschen.tech)<br><br>- 💬 Ask me about **Clean Code, Architecture, Node.js, Cryptography, History, Troll**<br>
+<br>- 🔭 I’m currently working at [Didask](https://www.didask.com/) <br><br>- ⚙️ Experimenting (a lot) with [Large Language Models](https://gen-ai.fr/) <br><br>- 🌱 I’m currently learning **Russian**<br><br>- 📝 Read my articles on [https://aschen.tech](https://aschen.tech) and learn everyday about tech with  [https://links.aschen.tech](https://links.aschen.tech)<br><br>- 💬 Ask me about **Clean Code, Architecture, Node.js, Large Language Models, Cryptography, Blockchain, History, Troll**<br>
 
 
 ## 🌐 Socials:
